@@ -1,4 +1,5 @@
 "快捷键=========================
+let mapleader=" "
 inoremap jj <ESC>
 nnoremap <leader>w :w<CR>
 nnoremap <leader>q :q<CR>
@@ -17,9 +18,6 @@ set softtabstop=4 "Tab 转为多少个空格
 "=========================================
 
 set nu "显示行号
-
-"leader键
-let mapleader=" "
 
 " 语法高亮
 syntax on
